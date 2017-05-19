@@ -4,6 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+//desenvolvido por Luis Gabriel, Lucas, Fábio.//
 
 public class MainActivity extends AppCompatActivity {
 
